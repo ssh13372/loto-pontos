@@ -13,10 +13,6 @@
   'https://connect.facebook.net/en_US/fbevents.js');
   fbq('init', '895191261601760');
   fbq('track', 'PageView');
-   fbq('track', 'Purchase', {
-    value: 82,45,
-    currency: 'BRL',
-  });
 </script>
 <noscript><img height="1" width="1" style="display:none"
   src="https://www.facebook.com/tr?id=895191261601760&ev=PageView&noscript=1"
@@ -24,5 +20,10 @@
 <!-- End Meta Pixel Code -->
   </head>
  
-  
+  <script>
+  fbq('track', 'Purchase', {
+    value: 82,45,
+    currency: 'BRL',
+  });
+</script>
 </html>
