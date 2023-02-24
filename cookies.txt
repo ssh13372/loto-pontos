@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.loto-premio.com	TRUE	/	FALSE	1999999999	PHPSESSID	09dc8a6d8a2c4722bdbc93e7e6b6a89c
+www.loto-premio.com	TRUE	/	FALSE	1999999999	afz-id-us	MTc3LjE5NS4yNDUuMjQ0TW96aWxsYS80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OClhcHN2c2xGR2xLekI%3D
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	aE_ktdK.trJeBmAQDjj6qCd5NSYnot3zgfnjFGmeuLU-1677206269-0-AaZ8vTthV43KIYV8BulURdbD/Bek56eYTgnmINlrXTHocoA5iR51dQnhPhvcQGTpgNKVSvbx0gDiXGSfY3UYDrM=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
